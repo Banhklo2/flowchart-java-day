@@ -15,13 +15,9 @@ public class Main {
             System.out.println("해당 번호를 입력하세요: ");
             int num = sc.nextInt();
 
-            if (num < 1 || num > 7){
-                System.out.println("잘못된 입력입니다!");
-                continue;
+            if (day.printNum(num)) {
+                break; // 정상 출력이면 종료
             }
-
-            day.printNum(num); // 정상 출력
-            break; // 반복 종료
         }
         sc.close();
     }
