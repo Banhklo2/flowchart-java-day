@@ -30,8 +30,6 @@ public class Day {
             case 7:
                 System.out.println("일요일");
                 break;
-            default:
-                System.out.println("잘못된 입력입니다!");
         }
     }
 }
