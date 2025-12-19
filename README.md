@@ -1,6 +1,6 @@
 # 🌞 Flowchart Java Day
 
-**FlowChart로 요일 출력 시스템 설계하고 Java로 구현한 연습**
+**FlowChart로 요일 번호를 입력받아 요일명을 출력하는 로직을 설계하고, Java 콘솔 프로그램으로 구현한 연습 프로젝트입니다.**
 
 ---
 
